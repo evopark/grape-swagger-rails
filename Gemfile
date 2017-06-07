@@ -24,3 +24,6 @@ end
 group :test do
   gem 'ruby-grape-danger', '~> 0.1.0', require: false
 end
+
+gem 'pry'
+gem 'pry-byebug'
